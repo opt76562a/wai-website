@@ -1,3 +1,4 @@
+![1000008226](https://github.com/user-attachments/assets/8fcfa768-4698-40ea-a109-fa57652f741e)
 ---
 title: "Functional Images"
 permalink: /tutorials/images/functional/
